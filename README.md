@@ -1,6 +1,4 @@
-# Scrifuco 🖌
-
-# CURRENTLY BROKEN BECAUSE OF...
+# Scrifuco 🖌 [CURRENTLY BROKEN, SORRY]
 
 ## What is Scrifuco?
 
