@@ -1,5 +1,7 @@
 # Scrifuco 🖌
 
+# CURRENTLY BROKEN BECAUSE OF ZAVORAL...
+
 ## What is Scrifuco?
 
 Graphical-text editor with a bit of VIM-like key bindings
