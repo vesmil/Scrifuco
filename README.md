@@ -1,6 +1,6 @@
 # Scrifuco 🖌
 
-# CURRENTLY BROKEN BECAUSE OF ZAVORAL...
+# CURRENTLY BROKEN BECAUSE OF...
 
 ## What is Scrifuco?
 
